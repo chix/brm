@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": { "": "src/" }
+    },
+    "require": {
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "symfony/console": "^3.4",
+        "symfony/finder": "^3.4",
+        "nette/utils": "^2.5"
+    }
+}
